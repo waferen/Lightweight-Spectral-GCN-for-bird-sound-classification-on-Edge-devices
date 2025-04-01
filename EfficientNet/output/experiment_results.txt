@@ -1,0 +1,69 @@
+Data processing time for train dataset: 1319.29 seconds
+Data processing time for validation dataset: 436.48 seconds
+Data processing time for test dataset: 424.81 seconds
+Test Accuracy: 0.9194
+Class 0009 Accuracy: 0.8947
+Class 0017 Accuracy: 0.9500
+Class 0034 Accuracy: 0.9351
+Class 0036 Accuracy: 0.9174
+Class 0074 Accuracy: 0.5000
+Class 0077 Accuracy: 0.9730
+Class 0114 Accuracy: 0.9437
+Class 0121 Accuracy: 0.9581
+Class 0180 Accuracy: 0.9353
+Class 0202 Accuracy: 0.9006
+Class 0235 Accuracy: 0.8707
+Class 0257 Accuracy: 0.7069
+Class 0265 Accuracy: 0.8603
+Class 0281 Accuracy: 0.9457
+Class 0298 Accuracy: 0.9620
+Class 0300 Accuracy: 0.9571
+Class 0364 Accuracy: 0.9366
+Class 0368 Accuracy: 0.9051
+Class 0370 Accuracy: 0.9515
+Class 1331 Accuracy: 0.8703
+Confusion Matrix:
+[[136   0   0   0   0   0   1   2   1   3   0   2   1   2   0   0   0   1
+    1   2]
+ [  5 152   1   0   0   0   0   0   0   0   1   0   0   0   1   0   0   0
+    0   0]
+ [  0   1 144   1   0   1   0   1   0   3   0   1   0   1   0   0   0   0
+    0   1]
+ [  0   0   0 111   0   0   0   0   0   2   0   1   0   1   3   0   0   1
+    1   1]
+ [  0   0   0   0   3   0   0   0   0   0   0   0   0   0   0   1   0   0
+    0   2]
+ [  0   0   2   0   0 144   0   0   1   0   1   0   0   0   0   0   0   0
+    0   0]
+ [  5   0   0   1   0   1 151   0   0   1   0   0   0   0   0   0   0   0
+    0   1]
+ [  1   1   0   0   0   1   1 160   0   0   0   0   0   1   0   0   0   1
+    0   1]
+ [  5   0   2   1   0   0   0   0 159   2   0   0   0   0   0   0   0   0
+    0   1]
+ [  2   0   1   1   0   0   2   0   4 154   1   0   0   0   0   0   3   1
+    0   2]
+ [  0   0   0   0   0   0   0   0   0   0 128   6   2   3   1   4   0   0
+    1   2]
+ [  1   0   0   0   0   0   2   0   0   0  10  41   1   0   1   0   0   0
+    0   2]
+ [  1   0   2   0   0   0   1   0   0   2   4   0 117   0   1   1   1   1
+    2   3]
+ [  0   0   1   0   0   1   0   0   0   0   0   0   1  87   1   0   0   0
+    1   0]
+ [  1   0   0   0   0   0   0   0   0   0   0   0   0   1 152   0   2   1
+    1   0]
+ [  0   0   0   0   0   0   1   0   0   1   0   0   0   0   0 156   0   1
+    0   4]
+ [  0   0   0   0   0   0   1   0   0   0   1   0   0   0   1   0 133   0
+    4   2]
+ [  2   1   0   0   0   1   0   0   0   1   0   0   1   0   0   1   1 143
+    4   3]
+ [  1   0   0   0   0   0   1   0   1   1   0   0   0   0   0   0   1   3
+  157   0]
+ [  0   1   1   1   0   0   2   1   2   5   1   5   0   0   1   1   7   2
+    1 208]]
+总参数量: 4,033,168
+Model Size: 15.66 MB
+Training time: 2805.43 seconds
+Inference time on test set: 23.91 seconds

@@ -1,0 +1,27 @@
+Data Processing Time: 0.03 seconds
+Training Time: 4359.40 seconds
+Best Model Performance on Each Class:
+Final Test Accuracy: 71.54%
+Class 0 Accuracy: 63.16%
+Class 1 Accuracy: 75.00%
+Class 2 Accuracy: 87.66%
+Class 3 Accuracy: 64.46%
+Class 4 Accuracy: 0.00%
+Class 5 Accuracy: 86.49%
+Class 6 Accuracy: 71.25%
+Class 7 Accuracy: 85.63%
+Class 8 Accuracy: 85.29%
+Class 9 Accuracy: 69.01%
+Class 10 Accuracy: 53.74%
+Class 11 Accuracy: 17.24%
+Class 12 Accuracy: 59.56%
+Class 13 Accuracy: 63.04%
+Class 14 Accuracy: 82.91%
+Class 15 Accuracy: 74.23%
+Class 16 Accuracy: 63.38%
+Class 17 Accuracy: 66.46%
+Class 18 Accuracy: 70.30%
+Class 19 Accuracy: 76.57%
+Testing Time: 8.32 seconds
+Model Parameter Count: 39828 parameters
+Model Size: 0.15 MB
