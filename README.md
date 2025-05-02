@@ -24,7 +24,7 @@ This project uses an `environment.yml` file to specify all dependencies for the 
 
 ## 3. Dataset
 
-### Dataset Name: 鸟鸣标记数据集（公开部分）
+### Dataset Name: 
 
 - Dataset Source: 百度网盘
 - Download Link: [百度网盘链接](https://pan.baidu.com/s/1Z8sUKCSP6dy-OJapo7tm4Q?pwd=kths) 提取码: `kths`
